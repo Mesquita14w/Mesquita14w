@@ -62,6 +62,15 @@ Olá, me chamo Matheus Mesquita, tenho 19 anos e moro em Goiânia. Conclui o Ens
 
 <img 
     align="left" 
+    alt="Jupyter" 
+    title="Jupyter"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
     alt="SQL" 
     title="SQL"
     width="50px" 
