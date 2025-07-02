@@ -21,7 +21,7 @@ Olá, me chamo Matheus Mesquita, tenho 19 anos e moro em Goiânia. Conclui o Ens
 
 ---
 
-### 🤖 Tecnologias & Hard Skills
+### 🤖 Tecnologias & Skills
 
 
 <img 
@@ -125,17 +125,6 @@ Olá, me chamo Matheus Mesquita, tenho 19 anos e moro em Goiânia. Conclui o Ens
 
 <br/>
 <br/>
-
----
-
-### 🧠 Soft Skills:
-
-- Inglês B2;
-- Prompt Engineering (Avançado) para Negócios com ChatGPT, Gemini e DeepSeek;
-- Excel (Intermediário) para Administração de Empresas, Organização de Dados e Gestão de Finanças;
-- LaTeX (Básico).
-
----
 
 ###  
 
