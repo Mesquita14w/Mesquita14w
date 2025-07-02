@@ -1,8 +1,8 @@
 # 👨‍💻 Matheus Mesquita - Data Science & AI
 
-### Estudante de Ciência de Dados e Inteligência Artificial
+### 📚 Estudante de Ciência de Dados e Inteligência Artificial
 
-Olá, me chamo Matheus Mesquita, tenho 19 anos e moro em Goiânia. Conclui o Ensino Médio em 2024 e atualmente estou no segundo período da faculdade de Ciência de Dados e Inteligência Artificial na PUCGO. Sou apaixonado por tecnologia e atualmente estou estudando para me tornar um Cientista de Dados e um Engenheiro de Machine Learning, irei compartilhar meu progresso aqui através de projetos.
+Olá, me chamo Matheus Mesquita, tenho 19 anos e moro em Goiânia. Conclui o Ensino Médio em 2024 e atualmente estou no segundo período da faculdade de Ciência de Dados e Inteligência Artificial na PUCGO. Sou apaixonado por tecnologia e atualmente estou estudando para me tornar um Cientista de Dados e Engenheiro de Machine Learning, irei compartilhar meu progresso aqui através de projetos.
 
 <a href="https://github.com/Mesquita14w">
         <img 
@@ -21,7 +21,7 @@ Olá, me chamo Matheus Mesquita, tenho 19 anos e moro em Goiânia. Conclui o Ens
 
 ---
 
-### 🤖 Tecnologias & Skills
+### 🤖 Tecnologias & Hard Skills
 
 
 <img 
@@ -125,6 +125,17 @@ Olá, me chamo Matheus Mesquita, tenho 19 anos e moro em Goiânia. Conclui o Ens
 
 <br/>
 <br/>
+
+---
+
+### 🧠 Soft Skills:
+
+- Inglês B2;
+- Prompt Engineering (Avançado) para Negócios com ChatGPT, Gemini e DeepSeek;
+- Excel (Intermediário) para Administração de Empresas, Organização de Dados e Gestão de Finanças;
+- LaTeX (Básico).
+
+---
 
 ###  
 
