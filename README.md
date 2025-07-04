@@ -4,20 +4,7 @@
 
 Olá, me chamo Matheus Mesquita, tenho 19 anos e moro em Goiânia. Conclui o Ensino Médio em 2024 e atualmente estou no segundo período da faculdade de Ciência de Dados e Inteligência Artificial na PUCGO. Sou apaixonado por tecnologia e atualmente estou estudando para me tornar um Cientista de Dados e Engenheiro de Machine Learning, irei compartilhar meu progresso aqui através de projetos.
 
-<a href="https://github.com/Mesquita14w">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Mesquita14w?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Mesquita14w">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Mesquita14w?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+
 
 ---
 
