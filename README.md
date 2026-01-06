@@ -85,15 +85,3 @@ Olá, me chamo Matheus Mesquita, tenho 19 anos e moro em Goiânia. Atualmente es
 
 <br/>
 <br/>
-
-###  
-
-<p>
- <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mesquita14w&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
