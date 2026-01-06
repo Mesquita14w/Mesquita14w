@@ -22,33 +22,6 @@ Olá, me chamo Matheus Mesquita, tenho 19 anos e moro em Goiânia. Atualmente es
 
 <img 
     align="left" 
-    alt="Pandas" 
-    title="Pandas"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Numpy" 
-    title="Numpy"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Matplotlib" 
-    title="Matplotlib"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Jupyter" 
     title="Jupyter"
     width="50px" 
