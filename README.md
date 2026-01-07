@@ -2,7 +2,7 @@
 
 ### 📚 Estudante de Ciência de Dados e Inteligência Artificial
 
-Olá, me chamo Matheus Mesquita, tenho 19 anos e moro em Goiânia. Atualmente estou no terceiro período da faculdade de Ciência de Dados e Inteligência Artificial na PUC-GO. Sou apaixonado por tecnologia e atualmente estou estudando para me tornar um Cientista de Dados, irei compartilhar meu progresso aqui através de projetos.
+Olá, me chamo Matheus Mesquita, tenho 19 anos e moro em Goiânia. Atualmente estou no terceiro período da faculdade de Ciência de Dados e Inteligência Artificial na PUC-GO. Sou apaixonado por tecnologia e atualmente estou estudando para seguir carreira na área de DataScience / MachineLearning / DeepLearning / AI. Irei compartilhar meu progresso aqui através de projetos.
 
 
 
