@@ -60,7 +60,7 @@ Olá, me chamo Matheus Mesquita, tenho 19 anos e moro em Goiânia, Goiás. Sou a
   <a href="https://github.com/Mesquita14w" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/matheus-mesquita-a76509341/" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-mesquita-cintra-carvalho-a76509341/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/mesquita_m21/" target="_blank">
