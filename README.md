@@ -49,8 +49,8 @@ Olá, me chamo Matheus Mesquita, tenho 19 anos e moro em Goiânia, Goiás. Sou a
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github.com/Mesquita14w/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://github.com/Mesquita14w/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /> 
+  <img src="[![Mesquita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mesquita14w)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img src="[![Mesquita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mesquita14w)](https://github.com/anuraghazra/github-readme-stats)" /> 
 </p>
 
 ---
