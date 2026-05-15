@@ -11,7 +11,7 @@ Olá, me chamo Matheus Mesquita, tenho 19 anos e moro em Goiânia, Goiás. Sou a
 🎓 Cursando **Ciência de Dados e Inteligência Artificial - Puc Goiás** *(início em 2025, atualmente no 3º período)*
 <br>💼 Buscando vaga de **Analista de Dados Júnior**
 <br>🚀 Aprimorando conhecimentos em **ML com Scikit-learn**
-<br>📊 Entusiasta da **IA** e Pesquisador
+<br>📊 Entusiasta da **IA** e Aprimorando Skills de **Desenvolvimento Fullstack** nas Horas Vagas
 
 ---
 
@@ -29,6 +29,7 @@ Olá, me chamo Matheus Mesquita, tenho 19 anos e moro em Goiânia, Goiás. Sou a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="40" />
