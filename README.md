@@ -42,9 +42,9 @@ Olá, me chamo Matheus Mesquita, tenho 19 anos e moro em Goiânia, Goiás. Sou a
 ## 📅 Linha do Tempo
 
 **2020:** Primeiro Contato com a Tecnologia com **HTML e CSS** 
-**2021:** Início na Programação com **JavaScript**
-**2024:** Início na Programação com **Python**  
-**2024:** Conclusão do **Ensino Médio**
+<br>**2021:** Início na Programação com **JavaScript**
+<br>**2024:** Início na Programação com **Python**  
+<br>**2024:** Conclusão do **Ensino Médio**
 <br>**2025:** Início da graduação em **Ciência de Dados e Inteligência Artificial** *(3º período atualmente)* 
 <br>**Hoje:** Focado no desenvolvimento de Projetos de Ciência de Dados e Machine Learning e no Estudo de Bibliotecas como Python **Scikit-learn e Tensorflow**
 
