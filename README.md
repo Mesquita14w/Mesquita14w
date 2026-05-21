@@ -11,7 +11,7 @@ Olá, me chamo Matheus Mesquita, tenho 19 anos e moro em Goiânia, Goiás. Sou a
 🎓 Cursando **Ciência de Dados e Inteligência Artificial - Puc Goiás** *(início em 2025, atualmente no 3º período)*
 <br>💼 Buscando vaga de **Analista de Dados Júnior**
 <br>🚀 Aprimorando conhecimentos em **ML com Scikit-learn**
-<br>📊 Entusiasta da **IA** e Aprimorando Skills de **Desenvolvimento Fullstack** nas Horas Vagas
+<br>🐧 Entusiasta de **Linux** e Programador de **C e C++** nas Horas Vagas
 
 ---
 
