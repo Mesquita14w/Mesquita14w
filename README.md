@@ -1,5 +1,9 @@
 # 👨‍💻 Matheus Mesquita - Data Science & AI
 
+<div>
+  <img height="300" alt="Art Offset GIF" src="https://github.com/user-attachments/assets/49446558-360c-4dee-85e5-569359438b20" />
+</div>
+
 ## 📚 Estudante de Ciência de Dados e Inteligência Artificial
 
 Olá, me chamo Matheus Mesquita, tenho 19 anos e moro em Goiânia, Goiás. Sou apaixonado por tecnologia e atualmente estou estudando para seguir carreira na área de DataScience / MachineLearning / DeepLearning / AI. Estou cursando Ciência de Dados e Inteligência Artificial na Puc Goiás, atualmente no terceiro período. Irei compartilhar meu progresso aqui através de projetos.
