@@ -4,22 +4,21 @@
   <img height="300" alt="Art Offset GIF" src="https://github.com/user-attachments/assets/49446558-360c-4dee-85e5-569359438b20" />
 </div>
 
-## 📚 Estudante de Ciência de Dados e Inteligência Artificial
+## 📚 A.Sc. in Data Science & AI
 
-Olá, me chamo Matheus Mesquita, tenho 20 anos e moro em Goiânia, Goiás. Sou apaixonado por tecnologia e atualmente estou estudando para seguir carreira na área de DataScience / AI / DeepLearning / SoftwareEngineering. Estou cursando Ciência de Dados e Inteligência Artificial na Puc Goiás, atualmente no quarto período. Irei compartilhar meu progresso aqui através de projetos.
-
-
----
-
-## 📖 Sobre mim
-🎓 Cursando **Ciência de Dados e Inteligência Artificial - Puc Goiás** *(início em 2025, atualmente no 4º período)*
-<br>💼 Estagiário de **Tecnologia da Informação**
-<br>🚀 Aprimorando conhecimentos em **Machine/Deep Learning & Software Development**
-<br>🐧 Entusiasta de **Linux** e de **Cibersegurança**
+Hello, my name is Matheus Mesquita, i have 20 years, living in Goiânia, Goiás, Brasil. I am passionate about technology and am currently studying to pursue a career in the field of DataScience / AI / DeepLearning / SoftwareEngineering. I am pursuing a degree in Data Science and Artificial Intelligence at PUC Goiás, currently in my fourth semester. I will share my progress here through various projects.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 📖 About me
+🎓 Associate of Science in **Data Science and Artificial Intelligence – PUC Goiás** *(starting in 2025; currently in the 4th semester)*
+<br>💼 **Tecnologia da Informação** Trainee
+<br>🚀 Improving knowledge in **Machine/Deep Learning & Software Development**
+<br>🐧 **Linux** & **Cybersecurity** Enthusiast
+
+---
+
+## 🚀 Technologies & Frameworks
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" />
@@ -40,19 +39,19 @@ Olá, me chamo Matheus Mesquita, tenho 20 anos e moro em Goiânia, Goiás. Sou a
 
 ---
 
-## 📅 Linha do Tempo
+## 📅 Timeline
 
-**2020:** Primeiro Contato com a Tecnologia com **HTML e CSS** 
-<br>**2021:** Início na Programação com **JavaScript**
-<br>**2024:** Início na Programação com **Python**  
-**2024:** Conclusão do **Ensino Médio**
-<br>**2025:** Início da graduação em **Ciência de Dados e Inteligência Artificial** *(4º período atualmente)* 
-<br>**2026:** Contratado como Estagiário em **Tecnologia da Informação**
-<br>**Hoje:** Focado no Estudo e Desenvolvimento de Projetos de **Ciência de Dados** e **Engenharia de Software**
+**2020:** First Contact with Technology through **HTML and CSS**
+<br>**2021:** Start in Programming with **JavaScript**
+<br>**2024:** Start in Programming with **Python**  
+**2024:** **High School** Gradutation
+<br>**2025:** Starts the degree in **Data Science and Artificial Intelligence** *(4º semester currently)* 
+<br>**2026:** Hired as an Trainee in **Information Technology**
+<br>**Hoje:** Focused on the study and development of projects in **Data Science** and **Software Engineering**
 
 ---
 
-## 📫 Onde me encontrar
+## 📫 Contact me
 <p align="left">
   <a href="https://github.com/Mesquita14w" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
