@@ -13,9 +13,9 @@ Olá, me chamo Matheus Mesquita, tenho 20 anos e moro em Goiânia, Goiás. Sou a
 
 ## 📖 Sobre mim
 🎓 Cursando **Ciência de Dados e Inteligência Artificial - Puc Goiás** *(início em 2025, atualmente no 4º período)*
-<br>💼 Buscando vaga de **Analista de Dados**
-<br>🚀 Aprimorando conhecimentos em **Machine/Deep Learning, Back-end Development & Cloud Computing**
-<br>🐧 Entusiasta de **Linux** e de **Engenharia Eletrônica**
+<br>💼 Estagiário de **Tecnologia da Informação**
+<br>🚀 Aprimorando conhecimentos em **Machine/Deep Learning & Software Development**
+<br>🐧 Entusiasta de **Linux** e de **Cibersegurança**
 
 ---
 
@@ -26,8 +26,9 @@ Olá, me chamo Matheus Mesquita, tenho 20 anos e moro em Goiânia, Goiás. Sou a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" />
@@ -46,16 +47,8 @@ Olá, me chamo Matheus Mesquita, tenho 20 anos e moro em Goiânia, Goiás. Sou a
 <br>**2024:** Início na Programação com **Python**  
 **2024:** Conclusão do **Ensino Médio**
 <br>**2025:** Início da graduação em **Ciência de Dados e Inteligência Artificial** *(4º período atualmente)* 
-<br>**Hoje:** Focado no desenvolvimento de Projetos de Ciência de Dados e Machine Learning e no Estudo de Bibliotecas de Python como **Scikit-learn e Tensorflow**, Back-end Development com **Node JS** e Cloud Computing com **AWS**
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="[![Mesquita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mesquita14w)](https://github.com/anuraghazra/github-readme-stats)" />
-  <img src="[![Mesquita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mesquita14w)](https://github.com/anuraghazra/github-readme-stats)" /> 
-</p>
+<br>**2026:** Contratado como Estagiário em **Tecnologia da Informação**
+<br>**Hoje:** Focado no Estudo e Desenvolvimento de Projetos de **Ciência de Dados** e **Engenharia de Software**
 
 ---
 
