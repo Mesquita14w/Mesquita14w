@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👨‍💻 Matheus Mesquita - Data Scientist & Software Engineer
 
 <div>
@@ -20,7 +22,7 @@ Hello, my name is Matheus Mesquita, i have 20 years, living in Goiânia, Goiás,
 
 ## 🚀 Technologies & Frameworks
 
-<p align="left">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="40" />
@@ -52,7 +54,7 @@ Hello, my name is Matheus Mesquita, i have 20 years, living in Goiânia, Goiás,
 ---
 
 ## 📫 Contact me
-<p align="left">
+<p>
   <a href="https://github.com/Mesquita14w" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -63,3 +65,5 @@ Hello, my name is Matheus Mesquita, i have 20 years, living in Goiânia, Goiás,
     <img src="https://img.shields.io/badge/Instagram-8134AF?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
+</div>
