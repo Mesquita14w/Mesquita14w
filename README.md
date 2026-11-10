@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Matheus Mesquita - Data Scientist & Software Engineer
+# 👨‍💻 Matheus Mesquita - Data Scientist & AI Engineer
 
 <div>
   <img height="300" alt="Art Offset GIF" src="https://github.com/user-attachments/assets/49446558-360c-4dee-85e5-569359438b20" />
@@ -8,7 +8,7 @@
 
 ## 📚 A.Sc. in Data Science & AI
 
-Hello, my name is Matheus Mesquita, i have 20 years, living in Goiânia, Goiás, Brasil. I am passionate about technology and am currently studying to pursue a career in the field of DataScience / AI / DeepLearning / SoftwareEngineering. I am pursuing a degree in Data Science and Artificial Intelligence at PUC Goiás, currently in my fourth semester. I will share my progress here through various projects.
+Hello, my name is Matheus Mesquita, i have 20 years, living in Goiânia, Goiás, Brasil. I am passionate about technology and am currently studying to pursue a career in the field of DataScience / AIEngineering / DeepLearning / SoftwareEngineering. I am pursuing a degree in Data Science and Artificial Intelligence at PUC Goiás, currently in my fourth semester. I will share my progress here through various projects.
 
 ---
 
