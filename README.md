@@ -47,7 +47,7 @@ Hello, my name is Matheus Mesquita, i have 20 years, living in Goiânia, Goiás,
 <br>**2021:** Start in Programming with **JavaScript**
 <br>**2024:** Start in Programming with **Python**  
 **2024:** **High School** Gradutation
-<br>**2025:** Starts the degree in **Data Science and Artificial Intelligence** *(4º semester currently)* 
+<br>**2025:** Starts the Associate of Science degree in **Data Science and Artificial Intelligence** *(4º semester currently)* 
 <br>**2026:** Hired as an Trainee in **Information Technology**
 <br>**Hoje:** Focused on the study and development of projects in **Data Science** and **Software Engineering**
 
