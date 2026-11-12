@@ -53,6 +53,12 @@ Hello, my name is Matheus Mesquita, i have 20 years, living in Goiânia, Goiás,
 
 ---
 
+## 📊​ Github Stats
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mesquita14w&theme=nord&hide_border=true&border_radius=10.3" alt="GitHub Streak" /></a>
+
+---
+
 ## 📫 Contact me
 <p>
   <a href="https://github.com/Mesquita14w" target="_blank">
