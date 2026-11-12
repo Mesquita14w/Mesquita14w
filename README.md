@@ -3,7 +3,7 @@
 # 👨‍💻 Matheus Mesquita - Data Scientist & AI Engineer
 
 <div>
-  <img height="300" alt="Art Offset GIF" src="https://github.com/user-attachments/assets/49446558-360c-4dee-85e5-569359438b20" />
+  <img height="300" alt="Art Offset GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88813a3f-5c1c-44a6-857a-d91c89bc705c/d5wdgdb-7e945c79-2c6c-4d2c-9e66-73bf3a934de4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi84ODgxM2EzZi01YzFjLTQ0YTYtODU3YS1kOTFjODliYzcwNWMvZDV3ZGdkYi03ZTk0NWM3OS0yYzZjLTRkMmMtOWU2Ni03M2JmM2E5MzRkZTQuZ2lmIn1dXX0.fi9eJEjebv1bl10T-kN9a5htYx1u2wIVYsGbWjmnZxY" />
 </div>
 
 ## 📚 A.Sc. in Data Science & AI
