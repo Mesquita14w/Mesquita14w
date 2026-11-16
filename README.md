@@ -16,7 +16,7 @@ Hello, my name is Matheus Mesquita, i have 20 years, living in Goiânia, Goiás,
 🎓 Associate of Science in **Data Science and Artificial Intelligence – PUC Goiás** *(starting in 2025; currently in the 4th semester)*
 <br>💼 **IT** Trainee
 <br>🚀 Improving knowledge in **Machine/Deep Learning & AI Agents**
-<br>🐧 **Linux** & **Cybersecurity** Enthusiast
+<br>🐧 **Linux** & **Rust** Enthusiast
 
 ---
 
